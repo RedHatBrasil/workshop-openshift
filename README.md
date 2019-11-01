@@ -4,6 +4,14 @@
 
 Esse material é usado para capacitação e transferência de conhecimento de clientes e parceiros da Red Hat Brasil em **OpenShift**, aplicável tanto ao [**Red Hat OpenShift Container Platform**](https://www.openshift.com/container-platform/index.html) \(enterprise\) quanto ao [**OpenShift Origin**](https://www.openshift.org/) \(community\).
 
+## O que são v3 e v4?
+
+Esse repositório inclui material para workshops em diferentes versões do Red Hat OpenShift, que foram construidas de forma completamente distintas. Essas versões são mantidas em `branches` diferentes neste repositório. Em resumo, temos:
+
+- **v4.2 (develop)**: *Versão em desenvolvimento, que estará disponível em https://redhat-sa-brazil.github.io/workshop-openshift/*
+- **v3.11**: *Versão atual, que está disponível em https://redhatbsb.gitbook.io/workshop-openshift/*
+- **v3.6 (deprecated)**: *Versão antiga (sem manutenção), que está disponível em https://redhat-sa-brazil.gitbook.io/workshop-openshift/*
+
 ## Por que dessa forma?
 
 Inspirados na cultura open-source, acreditamos que, ao disponibilizar o material de forma aberta, podemos **evoluir o workshop de forma colaborativa e alinhado com as necessidades dos nossos clientes, parceiros e a comunidade**.
