@@ -166,7 +166,7 @@ Caso queira entrar em um container já em execução, para fazer _attach_ no pro
 Uma das vantagens do uso de containers é a possibilidade de abstração da complexidade de implantação de um determinado serviço. Vamos rodar agora uma imagem do wordpress e ver o trabalho necessário para colocar esse CMS no ar.
 
 ```text
-docker run --rm -p 80:8080 wordpress
+docker run --rm -p 8080:80 wordpress
 ```
 
 O parametro -p exporta a porta interna do container \(80\) para a nossa máquina na porta 8080. Esse parâmetro será explicado melhor nos próximos exercícios.
